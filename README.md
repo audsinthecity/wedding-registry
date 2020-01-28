@@ -64,6 +64,13 @@ npm run dev
 The page will automatically load in the browser, alternatively you can point your browser to `http://localhost:3000/`.
 Metamask will also automatically open and request your login details in order to interact with the dapp.
 
+## Design Patterns and Security
+[Design pattern decisions](https://github.com/audsinthecity/wedding-registry/blob/master/design_pattern_decisions.md)
+[Avoiding common attacks](https://github.com/audsinthecity/wedding-registry/blob/master/avoiding_common_attacks.md)
+
+## Implementing a Library
+This project uses Open Zeppelin's [Pausable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/lifecycle/Pausable.sol) contract
+
 ## Built With
 
 * [Solidity](https://solidity.readthedocs.io/en/v0.6.1/) - object-oriented, high-level language for implementing smart contracts
