@@ -8,7 +8,7 @@ harm before a fix is implemented.
 
 ## Fail Early and Fail Loud
 Use ```require``` to check condition required for execution as early as possible to throw an exception if the condition
-is not met. Good practice in order to reduce unecessary code execution in the event that an exception is thrown.
+is not met. Good practice in order to reduce unnecessary code execution in the event that an exception is thrown.
 
 ## Withdrawal Pattern
 Seperation of logic between accounting and withdrawal to protect against the re-entrancy and denial of service attacks
