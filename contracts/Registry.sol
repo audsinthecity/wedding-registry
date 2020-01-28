@@ -28,11 +28,6 @@ contract Registry is Pausable {
     owner = msg.sender;
   }
 
-  //Get owner
-  function getOwner() public returns (address) {
-    return owner;
-  }
-
   //Claiming a registry item
   function claim(uint itemId) public returns (uint) {
       require(itemId >= 0 && itemId <= 15); // require statement first
