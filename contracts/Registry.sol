@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 contract Registry {
-  address[16] public guests;  // 100 guests at the wedding
+  address[16] public guests;  
 
   //Claiming a registry item
   function claim(uint itemId) public returns (uint) {
