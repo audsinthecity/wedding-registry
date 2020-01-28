@@ -27,7 +27,7 @@ npm install -g truffle
 The directory structure is similar to any Truffle project, consisting of:
 * contracts/: the Solidity source files for our smart contracts
 * migrations/: the migration system to handle smart contract deployments
-* test/: Solidity tests for the smart contracts
+* test/: Solidity and js tests for the smart contracts
 * truffle-config.js: Truffle configuration file
 
 ### Installing
