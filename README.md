@@ -75,6 +75,8 @@ page when a route is not found
 accountability rings. Given the short timeline, I decided to complete a very simple project with all the project
 requirements first and then revisit the more complicated dapp.
 * You can see the work in progress repo [here](https://github.com/audsinthecity/accountability-rings)
+* Extensions for this project could include making it possible to actually "buy" the items from the registry by
+sending value with the transaction instead of just claiming them, and enabling payment split functions.
 
 ## Authors
 
@@ -88,5 +90,5 @@ preservation of copyright and license notices.
 ## Acknowledgments
 
 * Thanks to the Consensys Academy mentors; including Coogan Brennan, Luiz Crus, and especially Josh Crites; for being available via Slack/Zoom for questions, putting together the material, and organizing interesting guest lecturers
-* Additional thanks to Bootcamp alumni mentors, especially Matias Barrios, for answering questions on Slack and also being available for Zoom calls
+* Additional thanks to Bootcamp alumni mentors, especially Matias Barrios, for answering questions and providing help on Slack and Zoom
 * Nod to [PurpleBooth](https:github.com/PurpleBooth) for the README starting template
