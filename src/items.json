@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "Wusthof Knives",
+    "picture": "images/knives.jpg",
+    "store": "Bed Bath & Beyond"
+  },
+  {
+    "id": 1,
+    "name": "Amazon.com Gift Card",
+    "picture": "images/amazon.jpeg",
+    "store": "Amazon"
+  },
+  {
+    "id": 2,
+    "name": "Le Creuset Dutch Oven",
+    "picture": "images/lecreuset.jpeg",
+    "store": "Sur La Table"
+  },
+  {
+    "id": 3,
+    "name": "Honeymoon Fund",
+    "picture": "images/honeyfund.png",
+    "store": "Honeyfund"
+  },
+  {
+    "id": 4,
+    "name": "Glass Food Containers",
+    "picture": "images/containers.jpg",
+    "store": "Target"
+  },
+  {
+    "id": 5,
+    "name": "DeWalt Orbital Sander",
+    "picture": "images/sander.jpeg",
+    "store": "Home Depot"
+  },
+  {
+    "id": 6,
+    "name": "TravelPro Platinum Magna 2",
+    "picture": "images/travelpro.jpeg",
+    "store": "EBags"
+  },
+  {
+    "id": 7,
+    "name": "Frette Bath Towels",
+    "picture": "images/frette.jpeg",
+    "store": "Bloomingdale's"
+  }
+  
+]
