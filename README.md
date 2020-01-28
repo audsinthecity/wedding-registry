@@ -65,8 +65,8 @@ The page will automatically load in the browser, alternatively you can point you
 Metamask will also automatically open and request your login details in order to interact with the dapp.
 
 ## Design Patterns and Security
-[Design pattern decisions](https://github.com/audsinthecity/wedding-registry/blob/master/design_pattern_decisions.md)
-[Avoiding common attacks](https://github.com/audsinthecity/wedding-registry/blob/master/avoiding_common_attacks.md)
+* [Design pattern decisions](https://github.com/audsinthecity/wedding-registry/blob/master/design_pattern_decisions.md)
+* [Avoiding common attacks](https://github.com/audsinthecity/wedding-registry/blob/master/avoiding_common_attacks.md)
 
 ## Implementing a Library
 This project uses Open Zeppelin's [Pausable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/lifecycle/Pausable.sol) contract
