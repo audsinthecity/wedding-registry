@@ -32,7 +32,7 @@ contract TestRegistry {
  // Testing retrieval of all guests 
 function testGetGuestAddressByItemIdInArray() public {
   // Store guests in memory rather than contract's storage
-  address[100] memory guests = registry.getGuests();
+  address[16] memory guests = registry.getGuests();
 
   Assert.equal(guests[expectedItemId], expectedGuest, "Guests claiming the expected item should be this contract");
 }
