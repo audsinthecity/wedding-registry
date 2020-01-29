@@ -75,6 +75,8 @@ This project uses Open Zeppelin's [Pausable.sol](https://github.com/OpenZeppelin
 Contracts were deployed to Rinkeby testnet.
 * Migrations.sol - 0xb4EC2B12aC68F1C51e7C41CA61aC5986C99929FC
 * Registry.sol - 0x311Cc23Bf6773a00003B1638fe2C1ee58192F781
+Full output can be found [here](https://github.com/audsinthecity/wedding-registry/blob/master/deployed_addresses.txt)
+and you can search for these on [Rinkeby's Etherscan](https://rinkeby.etherscan.io/address/0xe2e5d223d163baeb75cfa4cdf0ac43bb550d820b)
 
 ## Built With
 
