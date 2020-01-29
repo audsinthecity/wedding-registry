@@ -8,6 +8,7 @@ It allows guests of a wedding to claim which gifts from the registry they want t
 * Users can claim which items they would like to buy from the registry by confirming using their Metamask account
 
 ## Demo
+[![](http://img.youtube.com/vi/wWgvFqRXW60/0.jpg)](http://www.youtube.com/watch?v=wWgvFqRXW60 "Wedding Registry Dapp")
 
 ## Getting Started
 
@@ -89,7 +90,8 @@ accountability rings. Given the short timeline, I decided to complete a very sim
 requirements first and then revisit the more complicated dapp.
 * You can see the work in progress repo [here](https://github.com/audsinthecity/accountability-rings)
 * Extensions for this project could include making it possible to actually "buy" the items from the registry by
-sending value with the transaction instead of just claiming them, and enabling payment split functions.
+sending value with the transaction instead of just claiming them, enabling payment split functions, integrating uPort
+login, serve the UI from IPFS
 
 ## Authors
 
