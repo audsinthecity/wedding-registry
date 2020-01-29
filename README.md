@@ -71,6 +71,11 @@ Metamask will also automatically open and request your login details in order to
 ## Implementing a Library
 This project uses Open Zeppelin's [Pausable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/lifecycle/Pausable.sol) contract
 
+## Testnet Deployment
+Contracts were deployed to Rinkeby testnet.
+* Migrations.sol - 0xb4EC2B12aC68F1C51e7C41CA61aC5986C99929FC
+* Registry.sol - 0x311Cc23Bf6773a00003B1638fe2C1ee58192F781
+
 ## Built With
 
 * [Solidity](https://solidity.readthedocs.io/en/v0.6.1/) - object-oriented, high-level language for implementing smart contracts
