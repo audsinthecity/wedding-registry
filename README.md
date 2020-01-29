@@ -66,9 +66,11 @@ The page will automatically load in the browser, alternatively you can point you
 Metamask will also automatically open and request your login details in order to interact with the dapp.
 
 To use the dapp on the Rinkeby Test Network, you must first log in to Metamask and get some test Ether in your wallet. The
-[Rinkeby Test Faucet](https://faucet.rinkeby.io/) is a good place to do this - just paste your public Ethereum address on social media and then input your social media post URL to the faucet. Make sure to select Rinkeby Test Network and the account with test Ether in it.
+[Rinkeby Test Faucet](https://faucet.rinkeby.io/) is a good place to do this - just paste your public Ethereum address on social media and then input your social media post URL to the faucet. In Metamask, make sure to select Rinkeby Test Network from the dropdown and the account with test Ether in it.
 
-If you prefer to use the local development blockchain, make sure to use port 8545. Copy a private key from ganache-cli so that you can import an account to your Metamask. Click the circle in the upper right corner, select Import Account, and paste the private key. 
+If you prefer to use the local development blockchain, make sure to use port 8545. Copy a private key from ganache-cli so that you can import an account to your Metamask. Click the circle in the upper right corner, select Import Account, and paste the private key.
+
+Once you have a wallet with Ether in it, you can click on an item in the registry to claim it. Confirm the transaction and you will see it go through on Metamask and your item status updates on the UI.
 
 ## Design Patterns and Security
 * [Design pattern decisions](https://github.com/audsinthecity/wedding-registry/blob/master/design_pattern_decisions.md)
@@ -111,4 +113,3 @@ preservation of copyright and license notices.
 
 * Thanks to the Consensys Academy mentors; including Coogan Brennan, Luiz Crus, and especially Josh Crites; for being available via Slack/Zoom for questions, putting together the material, and organizing interesting guest lecturers
 * Additional thanks to Bootcamp alumni mentors, especially Matias Barrios, for answering questions and providing help on Slack and Zoom
-* Nod to [PurpleBooth](https:github.com/PurpleBooth) for the README starting template
