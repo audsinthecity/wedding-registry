@@ -64,6 +64,9 @@ npm run dev
 ```
 The page will automatically load in the browser, alternatively you can point your browser to `http://localhost:3000/`.
 Metamask will also automatically open and request your login details in order to interact with the dapp.
+To use the dapp on the Rinkeby Test Network, you must first log in to Metamask and get some test Ether in your wallet. The
+[Rinkeby Test Faucet](https://faucet.rinkeby.io/) is a good place to do this - just paste your public Ethereum address on social media and then input your social media post URL to the faucet. Make sure to select Rinkeby Test Network and the account with test Ether in it.
+If you prefer to use the local development blockchain, make sure to use port 8545. Copy a private key from ganache-cli so that you can import an account to your Metamask. Click the circle in the upper right corner, select Import Account, and paste the private key. 
 
 ## Design Patterns and Security
 * [Design pattern decisions](https://github.com/audsinthecity/wedding-registry/blob/master/design_pattern_decisions.md)
