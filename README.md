@@ -72,11 +72,10 @@ Metamask will also automatically open and request your login details in order to
 This project uses Open Zeppelin's [Pausable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/lifecycle/Pausable.sol) contract
 
 ## Testnet Deployment
-Contracts were deployed to Rinkeby testnet.
+Contracts were deployed to Rinkeby testnet. Full output can be found [here](https://github.com/audsinthecity/wedding-registry/blob/master/deployed_addresses.txt) and you can search for these on [Rinkeby's Etherscan](https://rinkeby.etherscan.io/address/0xe2e5d223d163baeb75cfa4cdf0ac43bb550d820b)
+
 * Migrations.sol - 0xb4EC2B12aC68F1C51e7C41CA61aC5986C99929FC
 * Registry.sol - 0x311Cc23Bf6773a00003B1638fe2C1ee58192F781
-Full output can be found [here](https://github.com/audsinthecity/wedding-registry/blob/master/deployed_addresses.txt)
-and you can search for these on [Rinkeby's Etherscan](https://rinkeby.etherscan.io/address/0xe2e5d223d163baeb75cfa4cdf0ac43bb550d820b)
 
 ## Built With
 
