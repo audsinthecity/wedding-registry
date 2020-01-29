@@ -1,0 +1,68 @@
+Contracts deployed to Rinkeby testnet
+Registry.sol - 0x311Cc23Bf6773a00003B1638fe2C1ee58192F781
+Migrations.sol - 0xb4EC2B12aC68F1C51e7C41CA61aC5986C99929FC
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 0x989680
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x4ff2102d659da4460a95eea9ad5d2d9cf8a028f51069b9598219f1e30d6767ef
+   > Blocks: 1            Seconds: 16
+   > contract address:    0xb4EC2B12aC68F1C51e7C41CA61aC5986C99929FC
+   > block number:        5874526
+   > block timestamp:     1580257953
+   > account:             0xe2e5d223D163BaeB75Cfa4cdf0ac43bb550d820b
+   > balance:             18.746332534
+   > gas used:            244636
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00244636 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00244636 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'Registry'
+   --------------------
+   > transaction hash:    0xd44da83ced9b5d25556aa0cfff232524f2eb6cc625f305391a72f7dd89349384
+   > Blocks: 0            Seconds: 12
+   > contract address:    0x311Cc23Bf6773a00003B1638fe2C1ee58192F781
+   > block number:        5874528
+   > block timestamp:     1580257983
+   > account:             0xe2e5d223D163BaeB75Cfa4cdf0ac43bb550d820b
+   > balance:             18.737694904
+   > gas used:            821389
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00821389 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00821389 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.01066025 ETH
